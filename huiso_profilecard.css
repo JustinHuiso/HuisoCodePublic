@@ -1,0 +1,26 @@
+body{
+  text-align: center;
+}
+
+p{
+  text-decoration: underline;
+  text-decoration-color:rgb(60, 85, 199);
+  text-decoration-style: line;
+}
+
+  .card {
+  width: 700px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border: 2px dashed rgb(136, 85, 218);
+  padding: 50px;
+  background-color: rgb(224, 220, 198);
+}
+
+.card img {
+  border-radius: 40%;
+  margin-bottom: 5px;
+  width: 40%;
+}
